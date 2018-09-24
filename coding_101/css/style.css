@@ -1,0 +1,78 @@
+body {
+  background-image: url("https://cdn8.bigcommerce.com/s-3p90sxcn/images/stencil/1280x1280/products/528/2447/CloudsSmokeyBlueWallpaper__39726.1522251281.jpg?c=2&imbypass=on");
+  background-repeat: repeat;
+  background-position: center;
+  background-color: #e6f2ff;
+  color: #004080;
+  font-family: "Arial", sans-serif;
+}
+  h1 {
+    font-size: 80px;
+    text-align: center;
+    color: #0080ff;
+    font-family: "Impact", sans-serif;
+  }
+  h2 {
+    text-align: center;
+    color: #0073e6;
+    font-size: 40px;
+  }
+  h3 {
+    text-align: center;
+    color: #0073e6;
+    font-size: 25px;
+  }
+  h4 {
+    text-align: center;
+    color: #0073e6;
+    font-size: 15px;
+    border-bottom-style: dotted;
+  }
+  h5 {
+    text-align: center;
+    color: #0073e6;
+    font-size: 15px;
+    border: 2px solid blue;
+    margin: 20px auto;
+    width: 600px;
+  }
+  p {
+    text-align: center;
+    margin: 20px auto;
+    width: 600px;
+  }
+.book {
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+}
+.question {
+  text-transform: capitalize;
+  font-weight: bold;
+}
+li {
+  display: inline-block;
+  width: 300px;
+}
+ul {
+  text-align: center;
+  margin: 25px auto;
+}
+a:hover {
+  color: purple;
+  font-weight: bold;
+}
+#poster {
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+}
+#school {
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+}
+.reviewer {
+  color: #0033cc;
+  font-weight: bold;
+}
